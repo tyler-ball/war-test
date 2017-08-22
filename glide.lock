@@ -1,0 +1,15 @@
+hash: 3fd1fdbee6ec505de43aef192bcde2f973fa9efb6f2cca57bd5e8532c134850c
+updated: 2017-08-08T19:32:48.059318734-06:00
+imports:
+- name: github.com/emirpasic/gods
+  version: f6c17b524822278a87e3b3bd809fec33b51f5b46
+  subpackages:
+  - stacks
+  - stacks/arraystack
+- name: github.com/Masterminds/squirrel
+  version: 20f192218cf52a73397fa2df45bdda720f3e47c8
+testImports:
+- name: github.com/stretchr/testify
+  version: 69483b4bd14f5845b5a1e55bca19e954e827f1d0
+  subpackages:
+  - assert
